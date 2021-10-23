@@ -8,7 +8,7 @@ You can change the number of images in each row.
 
 ![image](https://user-images.githubusercontent.com/15805568/138536792-09db314e-cef7-417c-992d-003d3a9387f5.png)
 
-The following shows the album after you change the number from 3 to 5
+The following shows the album after the number is changed from 3 to 5
 
 ![image](https://user-images.githubusercontent.com/15805568/138536809-aa10d34d-aa22-4b86-a716-b834b37d9edc.png)
 
